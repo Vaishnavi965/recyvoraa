@@ -1,0 +1,19 @@
+# Datasets
+dataset/
+data/
+
+# AI models
+*.h5
+*.keras
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+dist/
+
+# Environment
+.env
